@@ -1,0 +1,6 @@
+c:\users\shibly\documents\visual studio 2013\Projects\WebDesign\WebDesign\bin\WebDesign.dll.config
+c:\users\shibly\documents\visual studio 2013\Projects\WebDesign\WebDesign\bin\WebDesign.dll
+c:\users\shibly\documents\visual studio 2013\Projects\WebDesign\WebDesign\bin\WebDesign.pdb
+c:\users\shibly\documents\visual studio 2013\Projects\WebDesign\WebDesign\obj\Debug\WebDesign.csprojResolveAssemblyReference.cache
+c:\users\shibly\documents\visual studio 2013\Projects\WebDesign\WebDesign\obj\Debug\WebDesign.dll
+c:\users\shibly\documents\visual studio 2013\Projects\WebDesign\WebDesign\obj\Debug\WebDesign.pdb
